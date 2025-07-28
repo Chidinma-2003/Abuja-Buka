@@ -3,7 +3,7 @@ const menuItems = [
         name: "Jollof Rice",
         description: "Spicy rice served with beef and plantain.",
         price: 1500,
-        image: "images/Jollof Rice and Chicken.jpg",
+        image: "Images/Jollof rice and Chickenn.jpg",
       },
       {
         name: "Egusi Soup",
